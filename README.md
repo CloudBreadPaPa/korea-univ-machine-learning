@@ -2,7 +2,7 @@
 
 Korea University Cloud & Virtualization, Machine Learning in medical industry presentation, sample data repo  
 
-###Session information
+### Session information
 - Event informaton : https://os.korea.ac.kr/virt06/program.html
 - Github URL : https://github.com/CloudBreadPaPa/korea-univ-machine-learning
 - Presentation link : this repo docs folder
